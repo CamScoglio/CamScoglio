@@ -1,4 +1,6 @@
-## Hi there 👋
+hey i'm ngl I don't really use this. please check out my resume below if ur here for that. I'm never to programming so I haven't set this up yet or posted my side projects (working on that this week):
+
+https://docs.google.com/document/d/18NuP1isJAWKotb3Jsp-DuEyPYIRcIAGb/edit?usp=sharing&ouid=111701506911053971924&rtpof=true&sd=true
 
 <!--
 **CamScoglio/CamScoglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
